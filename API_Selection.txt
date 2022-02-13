@@ -1,1 +1,1 @@
-The spoonacular recipe and food API
+The Open weather map api
